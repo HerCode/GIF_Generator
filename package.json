@@ -1,0 +1,15 @@
+{
+  "name": "random-gif-generator-master",
+  "version": "1.0.0",
+  "description": "Today you will use [jQuery's ajax function](http://api.jquery.com/jquery.ajax/) to create a [random GIF](https://github.com/Giphy/GiphyAPI#random-endpoint) (not like the peanut butter) generator!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^3.1.0"
+  }
+}
